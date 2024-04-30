@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="mynama">Dimas A Anindyojati</string>
+    <string name="business">Junior Android Developer</string>
+    <string name="nim">411211117</string>
+    <string name="email_text">411211117@mahasiswa.undira.ac.id</string>
+    <string name="share_text">411211117@mahasiswa.undira.ac.id</string>
+</resources>
